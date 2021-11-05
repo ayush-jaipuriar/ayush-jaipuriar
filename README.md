@@ -2,8 +2,7 @@
 
 [![JavaScript_HTML_CSS_Python_Java_MySQL_ReactJS_AWS_Extjs_Selenium_Spring_Hibernate_Struts](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_Java_MySQL_ReactJS_AWS_Extjs_Selenium_Spring_Hibernate_Struts)](https://pimp-my-readme.webapp.io)
 
-- 📫 How to reach me : 
-- [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/ayush-jaipuriar/)
+[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/ayush-jaipuriar/)
 
 <!---
 - 👋 Hi, I’m @ayush-jaipuriar
