@@ -1,10 +1,9 @@
 ![Ayush Jaipuriar, Associate Software Engineer at HighRadius](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Associate%20Software%20Engineer%20at%20HighRadius&title=Ayush%20Jaipuriar)
 
-![JavaScript_HTML_CSS_Python_Java_MySQL_ReactJS_AWS_Extjs_Selenium_Spring_Hibernate_Struts](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_Java_MySQL_ReactJS_AWS_Extjs_Selenium_Spring_Hibernate_Struts)
-
 ## 📈 Stats:
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=true&theme=radical' alt='Github stats' align='center' />   
+
 </div>
 <br />
 
@@ -14,7 +13,7 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayushJaipuriar&layout=compact' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayushJaipuriar&layout=compact&theme=radical' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
