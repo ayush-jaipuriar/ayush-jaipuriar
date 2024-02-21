@@ -1,4 +1,6 @@
-## ![Ayush Jaipuriar, Associate Software Engineer at HighRadius](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-## banner?subtitle=Associate%20Software%20Engineer%20at%20HighRadius&title=Ayush%20Jaipuriar)
+<!---![Ayush Jaipuriar, Associate Software Engineer at HighRadius](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy- banner?subtitle=Associate%20Software%20Engineer%20at%20HighRadius&title=Ayush%20Jaipuriar)
+--->
+
 
 ## 📈 Stats:
 <div align='center'>
