@@ -10,7 +10,7 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=ayush-jaipuriar' alt='Github stats' align='center' />
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=ayush-jaipuriar&hide_rank=true' alt='Github stats' align='center' />
 </div>
 <br />
 
