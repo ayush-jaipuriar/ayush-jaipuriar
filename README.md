@@ -4,7 +4,7 @@
 
 ## 📈 Stats:
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=true&theme=radical' alt='Github stats' align='center' />   
+    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=true&theme=radical&hide_rank=true' alt='Github stats' align='center' />   
 
 </div>
 <br />
