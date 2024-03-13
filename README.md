@@ -10,12 +10,12 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=ayush-jaipuriar&hide_rank=true' alt='Github stats' align='center' />
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=ayush-jaipuriar&hide_rank=true&theme=midnight-purple' alt='Github stats' align='center' />
 </div>
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayushJaipuriar&layout=compact&theme=midnight-purple&text_bold=true' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayushJaipuriar&theme=midnight-purple&text_bold=true' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
