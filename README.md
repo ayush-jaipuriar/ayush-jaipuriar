@@ -1,4 +1,4 @@
-<!---![Ayush Jaipuriar, Associate Software Engineer at HighRadius](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy- banner?subtitle=Associate%20Software%20Engineer%20at%20HighRadius&title=Ayush%20Jaipuriar)
+<!---![Ayush Jaipuriar, Software Engineer at HighRadius](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy- banner?subtitle=Associate%20Software%20Engineer%20at%20HighRadius&title=Ayush%20Jaipuriar)
 --->
 
 
@@ -20,7 +20,7 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&layout=compact&theme=midnight-purple&text_bold=true' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&theme=midnight-purple&text_bold=true' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
