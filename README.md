@@ -4,7 +4,7 @@
 
 ## 📈 Stats:
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&hide_rank=true&text_bold=true' alt='Github stats' align='center' />   
+    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=false&theme=midnight-purple&hide_rank=true&text_bold=true' alt='Github stats' align='center' />   
 
 </div>
 <br />
@@ -20,7 +20,7 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&theme=midnight-purple&text_bold=true' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&layout=donut-vertical&theme=midnight-purple&text_bold=true' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
