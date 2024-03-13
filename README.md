@@ -19,6 +19,10 @@
 </div>
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar)]
+
+
+
 <!---
 - 👋 Hi, I’m @ayush-jaipuriar
 - 👀 I’m currently working as an Assosiate Software Engineer - I in Highradius.
