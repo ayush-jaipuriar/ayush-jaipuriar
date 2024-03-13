@@ -4,7 +4,7 @@
 
 ## 📈 Stats:
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=true&theme=merko&hide_rank=true' alt='Github stats' align='center' />   
+    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=true&theme=synthwave&hide_rank=true' alt='Github stats' align='center' />   
 
 </div>
 <br />
@@ -15,7 +15,7 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayushJaipuriar&layout=compact&theme=merko' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayushJaipuriar&layout=compact&theme=synthwave' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
