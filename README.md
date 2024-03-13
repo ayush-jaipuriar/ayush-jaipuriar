@@ -19,8 +19,10 @@
 </div>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar)]
-
+<div align='center'>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar)]
+</div>
+<br />
 
 
 <!---
