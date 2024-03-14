@@ -4,13 +4,13 @@
 
 ## 📈 My Stats :
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=false&theme=ocean_dark&hide_rank=true&text_bold=true' alt='Github stats' align='center' />   
+    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=false&theme=aura&hide_rank=true&text_bold=true' alt='Github stats' align='center' />   
 
 </div>
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=ayush-jaipuriar&hide_rank=true&theme=ocean_dark' alt='Github stats' align='center' />
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=ayush-jaipuriar&hide_rank=true&theme=aura' alt='Github stats' align='center' />
 </div>
 <br />
 
