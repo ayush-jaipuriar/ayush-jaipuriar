@@ -20,7 +20,7 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&layout=donut-vertical&theme=midnight-purple&text_bold=true' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&layout=donut-vertical&theme=ocean_dark&text_bold=true' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
