@@ -4,7 +4,7 @@
 
 ## 📈 My Stats :
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&layout=compact&count_private=true&hide_border=false&theme=aura&hide_rank=true&text_bold=true' alt='Github stats' align='center' />   
+    <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=false&theme=aura&hide_rank=true&text_bold=true' alt='Github stats' align='center' />   
 
 </div>
 <br />
@@ -15,12 +15,12 @@
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayushJaipuriar&theme=ocean_dark&text_bold=true' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayushJaipuriar&theme=aura&text_bold=true' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&layout=donut-vertical&theme=ocean_dark&text_bold=true' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&layout=donut-vertical&theme=aura&text_bold=true' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
