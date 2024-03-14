@@ -2,7 +2,7 @@
 --->
 
 
-## 📈 Some Stats :
+## 📈 My Stats :
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=ayush-jaipuriar&show_icons=true&count_private=true&hide_border=false&theme=midnight-purple&hide_rank=true&text_bold=true' alt='Github stats' align='center' />   
 
