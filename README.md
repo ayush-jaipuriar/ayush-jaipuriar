@@ -19,11 +19,11 @@
 </div>
 <br />
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-jaipuriar&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jaipuriar&layout=donut-vertical&theme=aura&text_bold=true' alt='Languages over last 7 days ' align='center' />
 </div>
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-jaipuriar&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br />
 
 
